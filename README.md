@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lcrxmr
 - 👀 I’m interested in lots of stuff but specially new technologies and what's going on in space!
-- 🌱 I’m currently learning JavaScript at LaCapsule
-- 💞️ I’m looking to collaborate at some point but right now I have no idea what i'm doing
+- 🌱 JavaScript - React - React-Native
+- 💞️ I’m looking to collaborate
 - 📫 Send a DM
 
 <!---
